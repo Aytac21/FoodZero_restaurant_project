@@ -1,0 +1,372 @@
+{
+  "categories": [
+    {
+      "name": "Fashion",
+      "number": 16
+    },
+    {
+      "name": "Food",
+      "number": 20
+    },
+    {
+      "name": "Music",
+      "number": 12
+    },
+    {
+      "name": "Travel",
+      "number": 36
+    }
+  ],
+  "comments": [
+    {
+      "name": "John Mccain",
+      "comment": "Vegan baked oatmeal with fresh berries"
+    },
+    { "name": "Ana", "comment": "50 Foods That Are Super Healthy" },
+    {
+      "name": "Camilla",
+      "comment": "How Many Carbs Should You Eat for Weight Loss?"
+    },
+    { "name": "Dailey", "comment": "22 Foods That Can Give You More Energy" }
+  ],
+  "achives": [
+    {
+      "time": "October 2021",
+      "number": 12
+    },
+    {
+      "time": "September 2021",
+      "number": 6
+    },
+    {
+      "time": "August 2021",
+      "number": 23
+    }
+  ],
+
+  "foods": [
+    {
+      "id": 1,
+      "image": "/fruit.png",
+      "title": "Fruit and vegetables and protection against diseases",
+      "mean": "Vegetables and fruit contain antioxidants and phytochemicals, or plant chemicals. ",
+      "personimage": "/Avatar.png",
+      "personname": "Julie Christie",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 2,
+      "image": "/food.png",
+      "title": "Asparagus Spring Salad with Rocket, Goat's Cheese",
+      "mean": "In a small jar, combine olive oil, lemon juice and zest, and shake well.",
+      "personimage": "/Avatar (1).png",
+      "personname": "Dianne Russell",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 3,
+      "image": "/101.png",
+      "title": "The Best Style of Dough for Dumplings",
+      "mean": "These two types of dough work perfectly when the dumplings are either steamed or pan-fried.",
+      "personimage": "/Avatar (2).png",
+      "personname": "Jenifier Lopez",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 4,
+      "image": "/102.png",
+      "title": "7 Reasons to Start Your Day With Lemon Water",
+      "mean": "Even the smallest changes in your routine can have a big impact on your health.",
+      "personimage": "/Avatar (3).png",
+      "personname": "Theresa Webb",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 5,
+      "image": "/103.png",
+      "title": "Three Ideas for Cooking Goat Meat at Home",
+      "mean": "Depending on the cut of goatmeat, it can be prepared by grilling, rotisserie, broiling, roasting, sautéing, pan-frying, braising, and stewing.",
+      "personimage": "/Avatar (4).png",
+      "personname": "Cody Fisher",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 6,
+      "image": "/104.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "When thoughts turn in June to lounging by the pool or kicking back at a picnic, it's time for bubbles that feel just as relaxed as you are.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 7,
+      "image": "/105.png",
+      "title": "3 Parts of a Restaurant Owner’s Job",
+      "mean": "The restaurant owner is the forerunner of the restaurant business.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 8,
+      "image": "/106.png",
+      "title": "Interviewing Chefs: Cooking Demos",
+      "mean": "For tastings like these, it is a good strategy to think of the “Yes, and…” guideline common in comedy improv.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 9,
+      "image": "/107.png",
+      "title": "20 Top Full Service Chains in Sales and Satisfaction",
+      "mean": "Nation’s Restaurant News ranks the chains where we’re spending the most money.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 10,
+      "image": "/108.png",
+      "title": "4 Ways Restaurants Are Personalizing the Dining Experience",
+      "mean": "When you operate a restaurant, there are hundreds of questions you will encounter.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 11,
+      "image": "/110.png",
+      "title": "Premium Deep Sea Snow White Cod Fillet",
+      "mean": "The most incredibly luscious cod fish we have ever tasted. This premium Deep Sea Snow White cod fish is a heaven of buttery mouthfuls that just melt in your mouth. No other cod comes close (trust us, we eat tons of cod fish in our household)! With cod fish this superior, we recommend steaming (scroll below for method) for the best taste, but you can fry it too! ",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Dinner"
+    },
+    {
+      "id": 12,
+      "image": "/103.png",
+      "title": "The Ultimate Guide to Restaurant Marketing",
+      "mean": "The most of Tested and Effective Restaurant Marketing Strategies could be easily applied in many restaurants, while others require more effort, time and money.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Drink",
+      "name": "Fruit"
+    },
+    {
+      "id": 13,
+      "image": "/104.png",
+      "title": "The Eater Guide to the Whole Entire World",
+      "mean": "Some eat while they travel; others travel to eat. Whichever camp you’re in, Eater Travel is here with hundreds of meticulously curated maps spotlighting the essential restaurants and hottest openings in the world’s most vital destinations, all written by on-the-ground experts who call these places home.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Startes"
+    },
+    {
+      "id": 14,
+      "image": "/105.png",
+      "title": "The Cheap Eat of the Year Is Jianbing",
+      "mean": "Jianbing is a traditional Chinese street food similar to crêpes.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Dinner",
+      "name": "Launch"
+    },
+    {
+      "id": 15,
+      "image": "/106.png",
+      "title": "12 New Lunch Dishes To Eat When You Sneak Away From the Office",
+      "mean": "Creating boundaries when your home becomes your office is tricky, and some of our remote-working-peers don't set aside time for a mid-day meal. A study from Skynova revealed that 12.5% of remote workers skip lunch entirely, and around half eat lunch during meetings a few times a week.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Cold Dishes",
+      "name": "Startes"
+    },
+    {
+      "id": 16,
+      "image": "/107.png",
+      "title": "How Does A Small Business Owner Juggle Social Media?",
+      "mean": "A bit of scrolling can be fun, relaxing even – but it can also cause a lot of overwhelm. You can find yourself comparing your business to competitors, feeling like your content doesn’t measure up, or trying to change your style to “keep up”.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    }
+  ],
+
+  "objects": [
+    {
+      "id": 1,
+      "image": "/110.png",
+      "title": "Premium Deep Sea Snow White Cod Fillet",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Dinner"
+    },
+    {
+      "id": 2,
+      "image": "/Feature Image 2.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Drink",
+      "name": "Fruit"
+    },
+    {
+      "id": 3,
+      "image": "/Feature Image 3.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Startes"
+    },
+    {
+      "id": 4,
+      "image": "/Feature Image 4.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Dinner",
+      "name": "Launch"
+    },
+    {
+      "id": 5,
+      "image": "/Feature Image 5.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Cold Dishes",
+      "name": "Startes"
+    },
+    {
+      "id": 6,
+      "image": "/Feature Image 6.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 7,
+      "image": "/105.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 8,
+      "image": "/106.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 9,
+      "image": "/107.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 10,
+      "image": "/108.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    },
+    {
+      "id": 11,
+      "image": "/110.png",
+      "title": "Premium Deep Sea Snow White Cod Fillet",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Dinner"
+    },
+    {
+      "id": 12,
+      "image": "/Feature Image 2.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Drink",
+      "name": "Fruit"
+    },
+    {
+      "id": 13,
+      "image": "/Feature Image 3.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Launch",
+      "name": "Startes"
+    },
+    {
+      "id": 14,
+      "image": "/Feature Image 4.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Dinner",
+      "name": "Launch"
+    },
+    {
+      "id": 15,
+      "image": "/Feature Image 5.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Cold Dishes",
+      "name": "Startes"
+    },
+    {
+      "id": 16,
+      "image": "/Feature Image 6.png",
+      "title": "12 Sparkling Wines We're Loving This Summer",
+      "mean": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus lorem id penatibus imperdiet. Turpis egestas ultricies purus auctor tincidunt lacus nunc. Convallis pellentesque quis fringilla sagittis.",
+      "personimage": "/Avatar (5).png",
+      "personname": "Leslie Alexander",
+      "category": "Starter",
+      "name": "Dinner"
+    }
+  ]
+}

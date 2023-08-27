@@ -1,0 +1,2724 @@
+@media screen and (max-width: 1440px) {
+  .bg_green_color {
+    height: 640px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .startes_heading img {
+    left: 700px;
+    width: 300px;
+  }
+
+  .main_eat_kind h1 {
+    font-size: 42px;
+  }
+  .main_eat_kind span {
+    font-size: 29px;
+  }
+
+  .eat_kind h1 {
+    font-size: 42px;
+  }
+  .eat_kind span {
+    font-size: 29px;
+  }
+
+  /* /Single portfoilo/  */
+
+  .title_singP {
+    margin-left: 0;
+  }
+  .melt_details {
+    padding-left: 20px;
+  }
+  .taste_image img {
+    width: 450px;
+    left: 220px;
+  }
+  .melt_image img {
+    width: 320px;
+  }
+  .taste_details h1 {
+    font-size: 30px;
+    margin-top: 420px;
+  }
+  .taste_details p {
+    font-size: 18px;
+    left: -24px;
+    width: 300px;
+  }
+  .lorem_text {
+    margin-left: 330px;
+  }
+  .lorem_text img {
+    width: 800px;
+    top: 2200px;
+    left: 130px;
+  }
+  .previous_page span {
+    font-size: 17px;
+  }
+  .previous_page p {
+    font-size: 23px;
+  }
+
+  /* /Blog one/  */
+
+  .title_blog_one {
+    width: 700px;
+    margin-left: 200px;
+  }
+  .bg_image_meat p {
+    padding-left: 10px;
+    width: 870px;
+  }
+  .fruit_vegt p {
+    left: 300px;
+    padding: 0 20px;
+  }
+  .title_single_post_no {
+    width: 800px;
+  }
+  .fruit_vegt h1 {
+    top: 400px;
+    font-size: 33px;
+  }
+  .fruit_vegt h5 {
+    top: 650px;
+  }
+  .read_more_no_sidebar {
+    padding-top: 220px;
+  }
+  /* /about/  */
+  .about_title p {
+    margin-left: 180px;
+  }
+  .story_image img {
+    width: 500px;
+  }
+  .manager_image img {
+    width: 500px;
+  }
+  .chef_about {
+    right: 10px;
+  }
+  .chef_name h2 {
+    font-size: 48px;
+  }
+ 
+  .chef_image img {
+    width: 500px;
+  }
+  .chef_image {
+    right: 10px;
+  }
+  .manager_about p {
+    top: 1100px;
+    left: 60px;
+    text-align: left;
+  }
+  .process > h1 {
+    left: 100px;
+  }
+  .process_1 img {
+    width: 400px;
+  }
+  .step1 h1 {
+    left: 500px;
+    top: 570px;
+    font-size: 60px;
+  }
+  .step1 p {
+    top: 650px;
+    left: 500px;
+    font-size: 19px;
+  }
+  .step2 img {
+    top: 920px;
+    left: 540px;
+    width: 400px;
+  }
+  .step3 h1 {
+    top: 1070px;
+  }
+  .step3 p {
+    top: 1170px;
+    font-size: 19px;
+    width: 450px;
+  }
+  .step3 img {
+    top: 1380px;
+    width: 470px;
+  }
+  .step2 h1 {
+    left: 600px;
+    font-size: 53px;
+  }
+  .step2 p {
+    left: 600px;
+    top: 1630px;
+  }
+  .rosemory {
+    top: 5200px;
+  }
+  .bg_green_color {
+    margin-top: 2100px;
+  }
+  .title_menu {
+    width: max-content;
+  }
+  .main_eat_img {
+    width: 250px !important;
+  }
+
+  .eat_kind h1 {
+    width: fit-content;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .eat_kind {
+    text-align: start;
+  }
+  .mains_menu {
+    display: block;
+    margin: 0 auto;
+  }
+  .main_eat_img img {
+    width: 90%;
+    margin-left: 50px;
+  }
+
+  .drinks_menu {
+    display: block;
+    margin: 0 auto;
+  }
+  .drinks_menu .eats {
+    margin: 0 auto;
+  }
+  .drinks_menu .eat_img img {
+    width: 90%;
+    margin-left: 50px;
+  }
+  .starters_menu {
+    display: flex;
+    margin: 0 auto;
+  }
+  .starters_menu {
+    display: flex;
+    flex-direction: column;
+  }
+  .eat_img img {
+    width: 80%;
+  }
+  .eat_img {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .eats {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .title_menu {
+    font-size: 80px;
+  }
+
+  .eat_kind h1 {
+    font-size: 36px;
+  }
+  .eat_kind span {
+    font-size: 25px;
+  }
+  .reserv_heading h1 {
+    font-size: 70px;
+  }
+  .book_btn {
+    margin-left: 250px;
+  }
+  .drinks_heading h1 {
+    font-size: 72px;
+  }
+  .drinks_heading img {
+    left: 300px;
+    width: 220px;
+  }
+  .navigation div {
+    display: block;
+  }
+
+  /* /About/ */
+
+  .about_title h1 {
+    font-size: 95px;
+  }
+  .about_title p {
+    margin-left: 100px;
+  }
+  .story_heading h1 {
+    font-size: 75px;
+    line-height: 80px;
+  }
+  .story_heading p {
+    font-size: 18px;
+  }
+  .story_image img {
+    width: 450px;
+  }
+  .tomato_img img {
+    width: 200px;
+    top: 0;
+    left: 200px;
+  }
+  .restaurant_manager {
+    margin-top: 40px;
+  }
+  .manager_name h2 {
+    font-size: 60px;
+    text-align: center;
+    margin-left: 80px;
+  }
+  .manager_image img {
+    margin-left: 110px;
+  }
+  .chef_about p {
+    margin-top: 1000px;
+  }
+
+  /* /Single portfolio/  */
+
+  .title_singP {
+    width: 700px;
+    font-size: 70px;
+    padding-top: 220px;
+  }
+  .melt_image img {
+    width: 270px;
+  }
+  .melt_details h1 {
+    font-size: 27px;
+    width: 340px;
+  }
+  .melt_details p:last-of-type {
+    font-size: 20px;
+    width: 330px;
+  }
+  .melt_details p:first-of-type {
+    font-size: 20px;
+    width: 330px;
+  }
+  .melt_details {
+    width: 45%;
+    padding-left: 0;
+  }
+  .taste_image img {
+    width: 400px;
+    top: 60px;
+  }
+  .taste_details h1 {
+    margin-top: 550px;
+    padding-left: 0;
+  }
+  .taste_details p {
+    margin-left: 90px;
+    width: 250px;
+  }
+  .lorem_text {
+    margin-left: 200px;
+    margin-top: 200px;
+  }
+  .lorem_text img {
+    width: 650px;
+    left: 70px;
+    top: 2250px;
+  }
+  .bg_light_green {
+    margin-top: 600px;
+  }
+  .previous_page p {
+    font-size: 18px;
+  }
+  .previous_page span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .next_page p {
+    font-size: 18px;
+  }
+  .next_page span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .title_blog_one {
+    width: 700px;
+    margin-left: 60px;
+    font-size: 50px;
+  }
+  .blogger_blog_one ul {
+    gap: 5px;
+  }
+  .fruiet_details {
+    margin-top: 60px;
+  }
+  .fruit_image img {
+    width: 118%;
+  }
+  .fruiet_details h1 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .fruiet_text {
+    font-size: 15px;
+  }
+  .read_more_blog_one span {
+    font-size: 18px;
+  }
+  .box {
+    right: -35px;
+    font-size: 18px;
+    padding: 2px 40px;
+  }
+  .loading_btn {
+    margin: 50px 0 100px 300px;
+  }
+  .fashion_btn {
+    margin-left: 200px;
+  }
+  .title_single_post_no {
+    font-size: 58px;
+    margin-left: -18px;
+  }
+  .blogger {
+    margin-left: 30px;
+  }
+  .breadcrumbs h3 {
+    padding-left: 1px;
+    width: 640px;
+    font-size: 21px;
+    line-height: 30px;
+  }
+  .content {
+    width: 600px;
+    text-align: justify;
+  }
+  .bg_image_meat p {
+    padding-left: 0;
+    width: 570px;
+    text-align: justify;
+    font-size: 25px;
+  }
+
+  .blogger_details p {
+    width: 540px;
+  }
+  .posts {
+    display: block;
+  }
+  .fruit_vegt {
+    margin: 0 auto;
+  }
+  .fruit_vegt img {
+    width: 110%;
+  }
+  .fruit_vegt p {
+    padding: 0 20px;
+    left: 270px;
+  }
+  .fruit_vegt h5 {
+    top: 690px;
+  }
+  .read_more_no_sidebar {
+    padding-top: 280px;
+  }
+  .title_menu {
+    margin-left: 10px;
+  }
+  .drinks_heading img {
+    left: 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .title_singP {
+    text-align: left;
+    font-size: 10px;
+    width: 300px;
+  }
+  .melt {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 1540px) {
+  .main_eat_img img {
+    width: 70%;
+  }
+  .startes_heading img {
+    position: absolute;
+    top: 600px;
+    right: 0;
+    left: unset;
+  }
+}
+@media screen and (max-width: 424px) {
+  .eat_img {
+    width: 100%;
+  }
+  .main_eat_img {
+    margin-left: 10px !important;
+  }
+  .main_eat_img img {
+    width: 100% !important;
+  }
+  .eat_kind h1 {
+    font-size: 30px;
+  }
+  .eats {
+    margin-top: 50px;
+  }
+  .startes_heading h1 {
+    font-size: 54px;
+  }
+  .mains_heading h1 {
+    font-size: 54px;
+  }
+  .mains_heading p {
+    font-size: 15px;
+  }
+  .startes_heading p {
+    font-size: 15px;
+  }
+  .details_page > div {
+    display: block;
+  }
+  .startes_heading img {
+    width: 200px;
+    top: 400px;
+  }
+  .mains_menu .eats {
+    margin-top: 30px;
+  }
+  .main_eat_img {
+    width: 100%;
+  }
+  .eat_kind h1{
+    width: 335px;
+  }
+  .eat_kind p{
+    margin-left: 15px;
+  }
+  .drinks_heading h1 {
+    font-size: 50px;
+    margin-top: 180px;
+  }
+  .drinks_heading img {
+    width: 160px;
+    left: 120px;
+    top: -60px;
+  }
+  .drinks_heading p {
+    margin-top: 20px;
+  }
+  .drinks_menu .eat_img img {
+    width: 67%;
+    margin-bottom: 20px;
+    margin-left: 0;
+  }
+  .title_menu {
+    font-size: 54px;
+  }
+  .bg_image_menu {
+    height: 400px;
+  }
+  .subtitle_menu {
+    margin-top: 20px;
+    margin-left: 13px;
+  }
+  .coomingSoonDetails {
+    margin-left: 0;
+  }
+  .coomingSoonHeading h1 {
+    font-size: 30px;
+    text-align: left;
+    letter-spacing: 2px;
+    margin-left: 20px;
+  }
+  .openingDate h3 {
+    font-size: 20px;
+  }
+  .openingDate p {
+    font-size: 14px;
+  }
+  .close {
+    padding: 30px;
+  }
+  .reservedText {
+    font-size: 30px;
+    margin: 50px 20px;
+  }
+  .viewMenu h2 {
+    font-size: 20px;
+  }
+
+  /* /Single portfolio/  */
+  .bg_image_singP {
+    height: 500px;
+  }
+  .title_singP {
+    font-size: 49px;
+  }
+  .melt_details {
+    padding-left: 50px;
+  }
+  .melt_details p:first-of-type{
+    font-size: 16px;
+    margin-left: -10px;
+  }
+  .melt_details p:last-of-type{
+    font-size: 16px;
+    margin-left: -10px;
+  }
+  .melt_details h1{
+    width: 300px;
+    margin-left: -10px;
+  }
+  .melt_image img {
+    width: 220px;
+    top: 320px;
+    left: 10px;
+  }
+  .taste_image img {
+    top: 250px;
+    left: 110px;
+    width: 250px;
+  }
+  .taste_details h1 {
+    text-align: left;
+    margin-left: -200px;
+    margin-top: 570px;
+  }
+  .taste_details p {
+    margin-left: -170px;
+    width: 350px;
+  }
+  .lorem_text {
+    margin-left: 20px;
+    margin-top: 160px;
+    font-size: 15px;
+    width: 350px;
+  }
+
+  .lorem_text img {
+    width: 330px;
+    top: 2000px;
+    left: 30px;
+  }
+  .bg_light_green {
+    margin-top: 430px;
+    height: 250px;
+  }
+  .previous_next_pages {
+    display: block;
+  }
+  .previous_page {
+    margin-top: 29px;
+  }
+  .next_page {
+    margin-top: 50px;
+  }
+  .blogger ul{
+    font-size: 10px;
+  }
+  .table-cells {
+    display: none;
+  }
+  /* /Blog one/  */
+  .title_blog_one {
+    margin-left: 10px;
+    font-size: 30px;
+    padding-top: 150px;
+    width: 330px;
+  }
+  .blogger_blog_one ul{
+    font-size: 10px;
+  }
+  .subtitle_blog_one {
+    font-size: 17px;
+    margin-top: 20px;
+    padding: 0 15px;
+  }
+  .fruit_vegetables {
+    display: block;
+  }
+  .fruit_image {
+    width: 70%;
+    margin-left: 30px;
+  }
+  .box {
+    padding: 0 30px;
+    font-size: 17px;
+  }
+  .blogger_blog_one {
+    font-size: 13px;
+  }
+  .fruiet_details {
+    width: 90%;
+    margin-left: 19px;
+  }
+  .fruiet_details h1 {
+    font-size: 28px;
+  }
+  .loading_btn {
+    margin-left: 120px;
+  }
+  .bg_image_blog_one {
+    height: 350px;
+  }
+  .nav_bar ul a {
+    font-size: 18px;
+  }
+  /* /NO SIDEBAR/  */
+  .fashion_btn {
+    font-size: 20px;
+    margin-left: 120px;
+    padding: 2px 25px;
+  }
+  .title_single_post_no {
+    font-size: 40px;
+    margin-left: 5px;
+    width: 100%;
+  }
+  .blogger {
+    font-size: 13px;
+    gap: 10px;
+    justify-content: space-between;
+    margin-left: -15px;
+  }
+  .blogger img {
+    width: 20%;
+  }
+  .breadcrumbs h3 {
+    font-size: 15px;
+    line-height: 25px;
+    width: 300px;
+    margin-left: 30px;
+  }
+  .breadcrumbs > p {
+    font-size: 13px;
+  }
+  .meat_photos {
+    display: block;
+  }
+  .content {
+    width: 330px;
+    font-size: 14px;
+  }
+  .bg_image_meat p {
+    width: 350px;
+    margin-left: 18px;
+    font-size: 20px;
+  }
+  .blogger_details h1 {
+    margin-left: 2px;
+    font-size: 18px;
+  }
+  .blogger_about {
+    gap: 30px;
+  }
+  .blogger_details p {
+    margin-left: -10px;
+    font-size: 15px;
+    width: 300px;
+  }
+  .fruit_vegt p {
+    left: 200px;
+    font-size: 18px;
+  }
+  .blogger_dtl {
+    gap: 10px;
+    font-size: 12px;
+  }
+  .fruit_vegt h1 {
+    top: 320px;
+    font-size: 25px;
+    line-height: 30px;
+    padding-bottom: 90px;
+  }
+  .read_more_no_sidebar {
+    padding-top: 230px;
+  }
+  .fruit_vegt h5 {
+    top: 530px;
+  }
+  .blogger_dtl ul {
+    gap: 10px;
+  }
+  .fruit_vegt {
+    width: 80%;
+    margin-left: 20px;
+  }
+  /* /About/  */
+  .about_title h1 {
+    line-height: 80px;
+    font-size: 45px;
+    padding-top: 150px;
+  }
+  .bg_image_about {
+    height: 400px;
+  }
+  .about_title p {
+    margin-left: 30px;
+    font-size: 17px;
+    line-height: 30px;
+    width: 300px;
+  }
+  .restaurant_story {
+    display: block;
+  }
+  .story_heading h1 {
+    font-size: 60px;
+    text-align: center;
+    line-height: 60px;
+    margin-left: 100px;
+  }
+  .tomato_img img {
+    width: 150px;
+    top: -30px;
+    left: 140px;
+  }
+  .story_heading p {
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 330px;
+  }
+  .story_image img {
+    width: 350px;
+    height: 367px;
+    margin-left: 10px;
+  }
+  .manager_name h2 {
+    margin-left: 20px;
+    font-size: 30px;
+  }
+  .manager_name p {
+    margin-left: 80px;
+    margin-top: -10px;
+  }
+  .manager_image img {
+    width: 300px;
+    margin-left: 40px;
+  }
+
+  .manager_about p {
+    top: 550px;
+    left: 30px;
+    font-size: 16px;
+    width: 330px;
+  }
+  .chef_name h2 {
+   margin-left: -220px;
+    font-size: 30px;
+    width: 300px;
+    height: 100px;
+    margin-top: 50px;
+  }
+  .chef_image img {
+    width: 300px;
+    margin-left: -320px;
+    margin-top: 50px;
+  }
+  .chef_name span {
+    margin-left: -220px;
+  }
+  .chef_about p {
+    margin-top: 980px;
+
+    font-size: 18px;
+    width: 340px;
+  }
+  .bg_delicious {
+    margin-top: 870px;
+  }
+  .details h1 {
+    font-size: 30px;
+    line-height: 60px;
+    width: 400px;
+    margin-left: -180px;
+  }
+  .details p {
+    width: 380px;
+    margin-left: -150px;
+    font-size: 18px;
+  }
+  .details i {
+    font-size: 80px;
+  }
+  .process > h1 {
+    font-size: 40px;
+    line-height: 40px;
+    left: 50px;
+    top: 100px;
+  }
+  .process > img {
+    width: 150px;
+    right: -10px;
+  }
+  .process_1 {
+    display: block;
+  }
+  .process_1 img {
+    width: 300px;
+    top: 300px;
+    left: 30px;
+  }
+  .step1 h1 {
+    left: 70px;
+    font-size: 50px;
+  }
+  .step1 p {
+    left: 30px;
+    font-size: 18px;
+    width: 340px;
+  }
+  .step2 img {
+    left: 30px;
+    width: 300px;
+    top: 880px;
+  }
+  .step2 h1 {
+    top: 1150px;
+    left: 50px;
+    font-size: 50px;
+    width: 300px;
+  }
+  .step3 h1 {
+    top: 1630px;
+    left: 70px;
+    font-size: 50px;
+    width: 300px;
+  }
+  .step2 p {
+    top: 1220px;
+    font-size: 18px;
+    width: 340px;
+    left: 20px;
+  }
+  .step3 p {
+    top: 1700px;
+    left: 20px;
+    font-size: 18px;
+    width: 340px;
+  }
+  .step3 img {
+    width: 300px;
+    left: 30px;
+  }
+  .rosemory {
+    top: 4900px;
+    width: 150px;
+  }
+  .reservation_sec {
+    height: 750px;
+  }
+  .details_page > div div:first-of-type img {
+    width: 300px;
+    margin-bottom: 20px;
+  }
+  .det_text h2 {
+    font-size: 30px;
+  }
+  .det_text p {
+    font-size: 18px;
+  }
+  .details_page > div div:last-of-type > div img {
+    width: 60px;
+  }
+  .det_person_details span {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 754px) {
+  .details_page > div div:first-of-type img {
+    width: 300px;
+    margin-bottom: 20px;
+  }
+  .det_text h2 {
+    font-size: 30px;
+  }
+  .det_text p {
+    font-size: 18px;
+  }
+  .details_page > div div:last-of-type > div img {
+    width: 60px;
+  }
+  .det_person_details span {
+    font-size: 18px;
+  }
+  .details_page > div {
+    display: block;
+  }
+}
+
+.bg_image_blog_one {
+  height: 350px;
+}
+.nav_bar ul a {
+  font-size: 18px;
+}
+
+/*AYTAC */
+
+@media screen and (max-width: 1230px) {
+  .header_planfood_left img {
+    width: 400px;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 100px;
+    width: 720px;
+  }
+
+  .feature_section img:first-of-type:not(.person img) {
+    height: 400px;
+    width: 400px;
+  }
+
+  .feature_section {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .reservation_div div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .cooksection {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .cooktext {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+
+  .foodsort {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  footer div {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .menuset {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .calories_images {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .cookimages img:last-of-type {
+    width: 600px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 400px;
+    height: max-content;
+  }
+
+  .footer_input {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .calories_lorem_text {
+    text-align: justify;
+  }
+}
+
+@media screen and (max-width: 1205px) {
+  .section.open {
+    background: white;
+  }
+  .fa-sliders {
+    display: flex;
+    font-size: 30px;
+    text-align: right;
+    margin-bottom: 10px;
+    justify-content: end;
+  }
+
+  .section {
+    display: none;
+  }
+
+  .section.open {
+    display: block;
+  }
+  .portfolio_images_img {
+    height: 500px;
+    width: 100%;
+  }
+
+  .contact_inputs div {
+    flex-wrap: wrap;
+  }
+
+  .contact_call p br {
+    display: none;
+  }
+
+  .contact_reservation_text img {
+    right: 510px;
+  }
+
+  .calories_lorem img {
+    width: 200px;
+  }
+
+  .calories_lorem_text {
+    font-size: 33px;
+  }
+  .single_post_categories li {
+    gap: 10px;
+  }
+  .single_post_search p::before {
+    content: "";
+  }
+  .single_post_search i {
+    margin-left: 0;
+  }
+  .bgimages {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .cookimages img:last-of-type {
+    width: 500px;
+  }
+  .navigation {
+    width: 200px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 300px;
+    height: max-content;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 90px;
+    width: 650px;
+  }
+
+  .contact_location img {
+    height: 600px;
+  }
+
+  .contact_reservation_text img {
+    right: 450px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 70px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 118px 50px 60px;
+  }
+  .navigation {
+    margin: 10px !important;
+  }
+}
+
+@media screen and (max-width: 1075px) {
+  .menuset {
+    margin-bottom: 275px;
+    top: 220px;
+    height: 870px;
+  }
+
+  .calories_lorem_text {
+    font-size: 30px;
+    line-height: 42px;
+  }
+}
+
+@media screen and (max-width: 1050px) {
+  .contact {
+    margin-left: 200px;
+  }
+  .cooktext img {
+    width: 300px;
+  }
+
+  .cooktext h1 {
+    font-size: 60px;
+  }
+
+  .cookimages img:last-of-type {
+    width: 400px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 200px;
+    height: max-content;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 80px;
+    line-height: 90px;
+  }
+
+  .contact_location img {
+    height: 500px;
+  }
+
+  .contact_reservation_text img {
+    right: 400px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 65px;
+  }
+
+  .menu_img img {
+    width: 550px;
+  }
+}
+
+@media screen and (max-width: 985px) {
+  .blog_person {
+    margin: 30px 0 20px 0;
+  }
+  .contact_call p {
+    padding: 0;
+  }
+
+  .contact_location img {
+    height: 450px;
+  }
+
+  .calories_lorem_text {
+    font-size: 27px;
+    line-height: 40px;
+  }
+
+  .calories_lorem img {
+    width: 185px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .single_post_header h1 {
+    font-size: 50px;
+  }
+  .cookimages img:last-of-type {
+    width: 340px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 140px;
+    height: max-content;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 80px;
+    width: 100%;
+    top: 0;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 250px;
+  }
+
+  .header_img {
+    top: 166px;
+  }
+
+  .header_food_right {
+    top: 190px;
+  }
+
+  .header_final {
+    top: 1300px;
+  }
+
+  .food_images {
+    right: 0;
+    top: 714px;
+  }
+
+  .contact_location p {
+    font-size: 20px;
+    line-height: 40px;
+  }
+
+  .contact_reservation_text img {
+    height: 230px;
+  }
+
+  .menu_img img {
+    width: 500px;
+  }
+
+  .menudiv h1 {
+    font-size: 80px;
+  }
+}
+
+@media screen and (max-width: 925px) {
+  .contact_call div:last-of-type {
+    margin-left: 20px;
+  }
+
+  .footer_contact {
+    width: 24%;
+  }
+
+  .footer_input button,
+  .footer_input input {
+    height: 60px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .contact {
+    margin-left: 0;
+  }
+  .navigation p:first-of-type {
+    font-size: 18px;
+  }
+  .single_post_achives li {
+    gap: 10px;
+  }
+  .cookimages img:last-of-type {
+    width: 300px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 130px;
+  }
+
+  .contact_reservation_text img {
+    height: 210px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 60px;
+  }
+
+  .menudiv p {
+    width: 390px;
+  }
+
+  .calories_lorem_text {
+    font-size: 25px;
+    line-height: 36px;
+  }
+
+  .calories_lorem img {
+    width: 175px;
+  }
+
+  .footerdiv {
+    flex-direction: column;
+    gap: 50px;
+    align-items: flex-start;
+  }
+  .single_post_foodimages div:first-of-type img {
+    height: 520px;
+  }
+  .single_post_foodimages div:last-of-type img {
+    height: 250px;
+  }
+  .single_post_bgimage div p:last-of-type:not(a p) {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 870px) {
+  .contact_location p br {
+    display: none;
+  }
+
+  .contact_reservation_text img {
+    right: 350px;
+  }
+
+  .contact_location img {
+    height: 400px;
+  }
+
+  .menu_img img {
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .home_food_images {
+    padding: 85px 0;
+  }
+  .header_planfood_left img {
+    width: 350px;
+  }
+  .calories_person_img img {
+    width: 110px;
+  }
+
+  .home_header {
+    height: 1950px;
+  }
+
+  .header_planfood_left h1 {
+    font-size: 35px;
+    width: 350px;
+    height: 105px;
+  }
+
+  .header_planfood_left p {
+    width: 355px;
+  }
+
+  .header_planfood_right img {
+    width: 330px;
+  }
+
+  .cooktext h1 {
+    font-size: 50px;
+  }
+
+  .cooktext img {
+    width: 260px;
+    margin-top: 30px;
+  }
+
+  .cooktext {
+    width: 430px;
+  }
+
+  .navigation p:last-of-type {
+    font-size: 25px;
+    padding: 18px;
+  }
+
+  .calories_lorem_text {
+    font-size: 23px;
+    line-height: 33px;
+  }
+
+  .calories_lorem img {
+    width: 170px;
+  }
+  .foodimage {
+    flex-direction: column;
+  }
+  .home_food_images {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .contacted_images img:first-of-type {
+    height: 350px;
+  }
+
+  .contacted_images img:last-of-type {
+    height: 259px;
+    left: 350px;
+    bottom: 268px;
+  }
+
+  .navigation p:first-of-type {
+    font-size: 15px;
+  }
+
+  .menudiv h1 {
+    font-size: 70px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .recent_posted_div {
+    flex-direction: column;
+  }
+  .cooktext {
+    width: 370px;
+  }
+
+  .cooksection img {
+    height: 200px;
+    width: 200px;
+  }
+
+  .contact_reservation_text img {
+    right: 260px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 50px;
+  }
+
+  .navigation div img {
+    width: 200px;
+  }
+  .navigation {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navigation p:first-of-type {
+    font-size: 20px;
+  }
+
+  .navigation div:last-of-type {
+    flex-direction: column;
+  }
+  .navigation {
+    padding: 10px 80px;
+  }
+  .navigation div {
+    gap: 15px;
+  }
+  .single_post_foodimages {
+    gap: 20px;
+  }
+  .single_post_bgimage div p:last-of-type:not(a p) br {
+    display: none;
+  }
+  .single_post_header h1 br {
+    display: none;
+  }
+  .single_post_header h1 {
+    font-size: 45px;
+    line-height: 60px;
+  }
+}
+@media screen and (max-width: 790px) {
+  .blogtwo-images {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 770px) {
+  .header_planfood_left img {
+    width: 280px;
+  }
+
+  .header_planfood_left h1 {
+    font-size: 30px;
+    width: 280px;
+    height: 100px;
+  }
+
+  .header_planfood_left p {
+    width: 280px;
+  }
+
+  .header_planfood_right p {
+    margin-bottom: 60px;
+  }
+
+  .menudiv p {
+    width: 330px;
+  }
+
+  .menu_img img {
+    width: 400px;
+  }
+
+  .reservation_div h1 {
+    font-size: 70px;
+  }
+  .navigation div i {
+    font-size: 20px;
+  }
+  .navigation p:last-of-type {
+    font-size: 22px;
+    padding: 13px;
+  }
+  .single_post_foodimages div:first-of-type img {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 745px) {
+  .contact {
+    margin-left: 0;
+  }
+  .cooktext {
+    width: 320px;
+  }
+
+  .cooktext h1 {
+    line-height: 65px;
+  }
+
+  .cooksection img {
+    height: 180px;
+    width: 180px;
+  }
+
+  .navigation {
+    display: flex;
+  }
+
+  .header_food_left p:first-of-type {
+    top: 20px;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 260px;
+  }
+
+  .contacted_images img:first-of-type {
+    height: 300px;
+  }
+
+  .contacted_images img:last-of-type {
+    height: 200px;
+    left: 313px;
+    bottom: 280px;
+  }
+
+  .menuset h1 {
+    font-size: 40px;
+  }
+
+  .menuset div p:first-of-type {
+    font-size: 35px;
+  }
+
+  .cooktext p {
+    font-size: 16px;
+  }
+
+  .calories_text h1 {
+    font-size: 70px;
+  }
+  .single_post_bgimage div p:last-of-type:not(a p) {
+    font-size: 15px;
+  }
+  .single_post_bgimage div a p {
+    line-height: 25px;
+    font-size: 12px;
+  }
+  .single_post_bgimage div a i {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 730px) {
+  .portfolio_list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .menudiv h1 {
+    font-size: 65px;
+  }
+  .single_post_header {
+    padding-left: 100px;
+  }
+}
+
+@media screen and (max-width: 710px) {
+  .header_food_left p:last-of-type {
+    top: 360px;
+  }
+  .header_food_left p:first-of-type {
+    top: 0;
+  }
+
+  .header_planfood_right img,
+  .header_planfood_right p {
+    width: 250px;
+  }
+
+  .food_images img {
+    width: 170px;
+    height: 160px;
+  }
+
+  .cook_bgcolor {
+    height: 1000px;
+  }
+
+  .cookimages {
+    top: 55px;
+  }
+
+  .cooktext {
+    top: 400px;
+  }
+
+  .logos {
+    flex-direction: column;
+  }
+
+  .logos div {
+    margin-top: 30px;
+  }
+
+  .contact_reservation_text img {
+    height: 190px;
+    right: 245px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 45px;
+  }
+
+  .menu_img img {
+    width: 370px;
+  }
+
+  .foodsort img {
+    width: 180px;
+    height: 175px;
+  }
+
+  .foodsort i {
+    font-size: 86px;
+  }
+
+  .foodsort h3 {
+    font-size: 32px;
+  }
+
+  .foodsort p {
+    font-size: 16px;
+  }
+
+  .reservation_div h1 {
+    font-size: 60px;
+  }
+  .navigation p:last-of-type {
+    font-size: 20px;
+    padding: 10px;
+  }
+  .navigation {
+    padding: 30px 50px;
+  }
+  .navigation p:first-of-type {
+    font-size: 15px;
+  }
+  .navigation div img {
+    width: 150px;
+  }
+}
+
+@media screen and (max-width: 675px) {
+  .calories_person_i span {
+    font-size: 20px;
+  }
+  .calories_person_i i {
+    font-size: 22px;
+  }
+  .contact_header_text h1 {
+    font-size: 80px;
+  }
+
+  .contact_call p {
+    font-size: 18px;
+    line-height: 30px;
+  }
+
+  .footer_input p {
+    line-height: 35px;
+  }
+
+  .menu_img img {
+    width: 340px;
+  }
+
+  .calories_lorem_text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+
+  .single_post_foodimages div:last-of-type img {
+    height: 200px;
+  }
+  .single_post_tags ul {
+    flex-wrap: wrap;
+  }
+  .single_post_header h1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .single_post_bgimage {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .header_food_right {
+    top: 210px;
+  }
+
+  .menuset {
+    margin-bottom: 130px;
+  }
+  .portfolio_images_img {
+    height: 485px;
+    object-fit: contain;
+  }
+  .header_food_left p:last-of-type {
+    display: none;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 330px;
+  }
+
+  .food_images {
+    top: 715px;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 276px;
+  }
+
+  .contact_location img {
+    height: 400px;
+  }
+
+  .contact_reservation_text img {
+    right: 200px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 42px;
+  }
+
+  .menu_img img {
+    width: 280px;
+  }
+
+  .menuset h1 {
+    font-size: 35px;
+  }
+
+  .menuset div p:first-of-type {
+    font-size: 33px;
+  }
+
+  .menuset h1 {
+    line-height: 45px;
+  }
+}
+
+@media screen and (max-width: 615px) {
+  .header_food_left p:first-of-type {
+    font-size: 70px;
+  }
+
+  .header_img {
+    width: 500px;
+  }
+
+  .food_images {
+    top: 680px;
+  }
+
+  .food_images img {
+    width: 160px;
+    height: 150px;
+  }
+
+  .contact_location p {
+    font-size: 18px;
+    line-height: 36px;
+  }
+
+  .contacted_images img:last-of-type {
+    height: 207px;
+    left: 230px;
+    bottom: 257px;
+  }
+
+  .contacted_images img:first-of-type {
+    height: 250px;
+    bottom: 130px;
+    position: absolute;
+  }
+
+  .portfolio_header_text h1 {
+    font-size: 50px;
+  }
+
+  .navigation div i {
+    font-size: 20px;
+  }
+
+  .navigation p:last-of-type {
+    font-size: 22px;
+    padding: 14px;
+  }
+
+  .calories_text h1 {
+    font-size: 60px;
+  }
+
+  .calories_lorem_text {
+    font-size: 18px;
+    line-height: 28px;
+  }
+
+  .calories_lorem img {
+    width: 150px;
+  }
+
+  .footer_input button {
+    margin-left: 0px;
+  }
+  .single_post_foodimages div:first-of-type img {
+    height: 300px;
+  }
+  .single_post_header {
+    padding-left: 40px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .eat_kind h1 {
+    font-size: 30px;
+  }
+  .navigation {
+    padding: 10px 80px;
+  }
+  .navigation div img {
+    width: 130px;
+  }
+  .navigation p:last-of-type {
+    font-size: 18px;
+    padding: 12px;
+  }
+  .navigation p:first-of-type {
+    font-size: 14px;
+  }
+
+  .home_header {
+    height: 1760px;
+  }
+
+  .header_planfood_right img,
+  .header_planfood_right p {
+    width: 220px;
+  }
+
+  .header_planfood_right p {
+    font-size: 15px;
+  }
+
+  .header_planfood_left img,
+  .header_planfood_left h1,
+  .header_planfood_left p {
+    width: 250px;
+  }
+
+  .header_final {
+    top: 1200px;
+  }
+
+  .header_img {
+    width: 450px;
+    right: 0;
+  }
+
+  .food_images {
+    right: 10px;
+    top: 635px;
+  }
+
+  .food_images img {
+    width: 140px;
+    height: 130px;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 55px;
+    line-height: 75px;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 200px;
+  }
+
+  .bgimages {
+    width: 100%;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 50px;
+    line-height: 70px;
+  }
+
+  .menudiv h1 {
+    font-size: 60px;
+  }
+
+  .person {
+    margin: 30px 0 20px 0px;
+  }
+
+  .feature_text {
+    margin-left: 10px;
+  }
+
+  .feature_text h1 {
+    font-size: 30px;
+  }
+
+  .reservation_div h1 {
+    line-height: 80px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .contact_location img {
+    height: 350px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 50px;
+  }
+
+  .contact_reservation_text img {
+    right: 220px;
+    bottom: 80px;
+  }
+
+  .portfolio_images h1 br {
+    display: none;
+  }
+
+  .reservation_div p {
+    line-height: 65px;
+  }
+
+  .calories_person {
+    flex-direction: column;
+  }
+
+  .calories_person_img img {
+    width: 130px;
+  }
+
+  .calories_person_i {
+    margin-top: 15px;
+  }
+}
+
+@media screen and (max-width: 565px) {
+  .calories_lorem_text {
+    padding: 150px 110px 50px 30px;
+  }
+
+  .calories_lorem img {
+    top: 147px;
+    width: 140px;
+  }
+  .portfolio_images_img {
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .menu_img img {
+    width: 260px;
+  }
+
+  .menuset div {
+    padding: 0 15px;
+  }
+
+  .reservation_div button {
+    padding: 5px 50px;
+  }
+}
+
+@media screen and (max-width: 535px) {
+  .pages ul li {
+    font-size: 25px;
+    line-height: 35px;
+  }
+  .contact p {
+    font-size: 15px;
+  }
+  .contact h1 {
+    width: 130px;
+  }
+
+  .contact_location button {
+    width: 150px;
+  }
+
+  .contact_location img {
+    height: 300px;
+  }
+
+  .contact_reservation_text img {
+    height: 170px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 45px;
+  }
+
+  .menu_img img {
+    width: 240px;
+  }
+
+  .menudiv h1 {
+    font-size: 55px;
+  }
+
+  .menudiv p {
+    width: 285px;
+  }
+
+  .menudiv p {
+    font-size: 16px;
+    top: 110px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .home_header {
+    height: 1880px;
+  }
+  .menuset {
+    height: 930px;
+  }
+  .header_img {
+    width: 380px;
+  }
+
+  .food_images {
+    top: 562px;
+  }
+
+  .food_images img {
+    width: 110px;
+    height: 100px;
+  }
+
+  .header_final {
+    top: 1100px;
+  }
+
+  .header_planfood_right {
+    top: 330px;
+    left: 0;
+  }
+
+  .header_final p,
+  .header_final h1 {
+    width: 100%;
+  }
+
+  .header_planfood_left h1 {
+    line-height: 10px;
+    height: 40px;
+  }
+
+  .header_planfood_right p {
+    margin-bottom: 20px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 50px;
+  }
+
+  .contact_header_text h1 {
+    font-size: 60px;
+  }
+
+  .header_planfood_left p {
+    font-size: 17px;
+  }
+
+  .calories_text h1 {
+    font-size: 55px;
+    line-height: 85px;
+  }
+
+  .calories_lorem_text {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .navigation {
+    padding: 20px 0 20px 60px !important;
+    flex-direction: column;
+  }
+  .navigation div {
+    flex-direction: row;
+  }
+  .single_post_foodimages div:first-of-type img {
+    height: 200px;
+  }
+  .single_post_foodimages div:last-of-type img {
+    height: 180px;
+  }
+  .single_post_foodimages,
+  .single_post_foodimages div:last-of-type {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .single_post_person img {
+    width: 60px;
+  }
+  .single_post_person span {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .contact_location div:first-of-type {
+    margin-left: 0;
+  }
+
+  .contact_reservation_text img {
+    height: 140px;
+  }
+
+  .contact_reservation_div h1 {
+    font-size: 40px;
+  }
+
+  .contacted_images img:first-of-type {
+    height: 230px;
+  }
+
+  .contacted_images img:last-of-type {
+    height: 180px;
+    left: 215px;
+  }
+
+  .contact_header_text p {
+    font-size: 20px;
+  }
+
+  .menuset h1 {
+    font-size: 30px;
+  }
+
+  .menuset div p:first-of-type {
+    font-size: 30px;
+  }
+
+  .foodsort i {
+    padding: 40px;
+    width: 173px;
+    height: 170px;
+    margin: 0px;
+  }
+
+  .foodsort img {
+    padding: 35px;
+    width: 160px;
+    height: 150px;
+  }
+
+  .menudiv {
+    top: 70px;
+  }
+
+  .bgimages {
+    height: 500px;
+  }
+
+  .reservation_div button {
+    padding: 5px 40px;
+    margin: 30px 20px;
+  }
+
+  .calories_text p {
+    font-size: 16px;
+  }
+
+  .calories_lorem_text {
+    font-size: 15px;
+    line-height: 23px;
+  }
+  .blog_header h1 {
+    font-size: 60px;
+  }
+  .people_comments p:last-of-type {
+    font-size: 15px;
+  }
+  .people_comments p span {
+    font-size: 16px;
+  }
+  .people_comments li img {
+    height: 70px;
+  }
+  .people_comments h1 {
+    font-size: 30px;
+    margin-bottom: 30px;
+  }
+  .eat_kind h1 {
+    font-size: 25px;
+    padding: 5px 0;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .contacted_images img:first-of-type {
+    height: 230px;
+  }
+
+  .contacted_images img:last-of-type {
+    height: 165px;
+  }
+
+  .bgimages {
+    height: 450px;
+  }
+
+  .calories_text h1 {
+    font-size: 50px;
+    line-height: 75px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 110px 50px 18px;
+  }
+
+  .footerdiv {
+    padding: 80px 40px;
+  }
+
+  .footer_input input {
+    padding: 0 70px 0 20px;
+  }
+
+  .logos {
+    padding: 50px 40px;
+  }
+
+  .logos p {
+    font-size: 18px;
+  }
+  .single_post_header button {
+    width: 125px;
+    height: 40px;
+    font-size: 16px;
+  }
+  .single_post_header {
+    padding-left: 5px;
+  }
+  .single_post_person {
+    gap: 5px;
+  }
+  .point i {
+    font-size: 2px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .menudiv p {
+    width: auto;
+    margin-bottom: 80px;
+    text-align: center;
+  }
+
+  .reservation_div h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+
+  .reservation_div > div {
+    padding: 20px;
+  }
+
+  .menuset div p:last-of-type {
+    font-size: 15px;
+  }
+
+  .calories_lorem img {
+    width: 125px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 100px 50px 18px;
+  }
+  .single_post_avatar p {
+    font-size: 15px;
+  }
+  .single_post_avatar img {
+    width: 115px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .contacted_images img:last-of-type {
+    height: 140px;
+    left: 230px;
+    bottom: 280px;
+  }
+
+  .contact_location button {
+    width: 135px;
+  }
+
+  .contact_location img {
+    height: 230px;
+  }
+
+  .portfolio_images h1 {
+    font-size: 28px;
+    line-height: 40px;
+    margin-top: 10px;
+  }
+
+  .calories_lorem_text {
+    font-size: 13px;
+    line-height: 20px;
+  }
+  .pages ul ol li {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .header_final {
+    top: 900px;
+  }
+  .home_header {
+    height: 1750px;
+  }
+
+  .header_food_left p:first-of-type {
+    font-size: 40px;
+    line-height: 60px;
+  }
+
+  .header_food_left p:nth-of-type(2) {
+    top: 200px;
+    width: 100%;
+  }
+
+  .header_img {
+    width: 300px;
+  }
+
+  .food_images {
+    top: 508px;
+    right: 20px;
+    gap: 16px;
+  }
+
+  .food_images img {
+    width: 80px;
+    height: 70px;
+  }
+
+  .header_planfood_left h1 {
+    font-size: 25px;
+  }
+
+  .feature_text h1 br {
+    display: none;
+  }
+
+  .reservation_div button {
+    padding: 5px 35px;
+    margin: 25px 0px;
+    font-size: 20px;
+  }
+  .blog_person {
+    flex-wrap: wrap;
+  }
+  .pages {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .single_post_person img {
+    width: 40px;
+  }
+  .single_post_header h1 {
+    font-size: 30px;
+    line-height: 45px;
+  }
+  .pages {
+    width: 30%;
+  }
+  .header_food_right {
+    top: 140px;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .pages {
+    margin: 30px 0;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .mains_menu .eats {
+    width: 90%;
+    margin-left: 20px;
+  }
+  .header_img {
+    width: 270px;
+  }
+  .food_images {
+    top: 461px;
+    right: 55px;
+  }
+  .pages {
+    margin: 50px 0;
+  }
+  .contact h1 {
+    width: 96px;
+    font-size: 20px;
+    line-height: 40px;
+  }
+  .contacted_images img:last-of-type {
+    left: 210px;
+    bottom: 280px;
+  }
+
+  .contact_header_text h1 {
+    font-size: 40px;
+  }
+
+  .contacted_images img:first-of-type {
+    height: 190px;
+  }
+
+  .contacted_images img:last-of-type {
+    left: 202px;
+    bottom: 273px;
+    height: 100px;
+  }
+
+  .contact_header_text p {
+    font-size: 18px;
+  }
+
+  .portfolio_header_text h1 {
+    font-size: 40px;
+  }
+
+  .calories_text p {
+    font-size: 15px;
+    margin: 0 10px 80px;
+  }
+
+  .calories_text h1 {
+    font-size: 45px;
+  }
+
+  .calories_lorem img {
+    width: 120px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 90px 50px 9px;
+    font-size: 12px;
+    line-height: 19px;
+  }
+  .calories_images img {
+    height: 450px;
+    width: 100%;
+  }
+  .portfolio_images_img {
+    height: 350px;
+  }
+  .blog_header h1 {
+    font-size: 50px;
+    line-height: 85px;
+  }
+  .blog_header p {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .pages ul li {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .contact p {
+    font-size: 13px;
+  }
+  .icons i {
+    font-size: 16px;
+  }
+  .cooktext {
+    width: 250px;
+  }
+
+  .cooksection img {
+    margin-left: 0;
+  }
+
+  .menudiv h1 {
+    font-size: 55px;
+  }
+
+  .menudiv h1 {
+    font-size: 50px;
+  }
+
+  .reservation_div button {
+    padding: 3px 30px;
+    font-size: 18px;
+  }
+
+  .calories_person_i i {
+    font-size: 26px;
+  }
+
+  .calories_person_i span {
+    font-size: 24px;
+  }
+  .navigation {
+    margin: 0;
+    padding: 0;
+    padding-top: 20px;
+    padding-left: 120px;
+  }
+  .contact_location img {
+    height: 220px;
+  }
+}
+
+@media screen and (max-width: 365px) {
+  .person {
+    margin: 30px 0 20px 0;
+  }
+
+  .footer_input input {
+    padding: 20px 50px 20px 20px;
+  }
+
+  .contact_header_time {
+    gap: 10px;
+    margin-top: 0;
+  }
+
+  .header_planfood_left h1 {
+    line-height: 30px;
+  }
+
+  .header_planfood_right {
+    top: 370px;
+  }
+
+  .header_planfood_left p {
+    margin-top: 60px;
+  }
+
+  .calories_text h1 {
+    font-size: 40px;
+    line-height: 65px;
+  }
+  .single_post_bgimage div p:last-of-type:not(a p) {
+    font-size: 14px;
+  }
+  .single_post_bgimage div a p {
+    font-size: 10px;
+  }
+  .single_post_bgimage div a i {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 355px) {
+  .calories_lorem img {
+    width: 100px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 89px 50px 7px;
+    font-size: 11px;
+    line-height: 18px;
+  }
+
+  .calories_person_img p {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .single_post_bgimage div p:last-of-type:not(a p) {
+    font-size: 11px;
+  }
+}
+
+@media screen and (max-width: 342px) {
+  .menuset h1 {
+    font-size: 26px;
+  }
+}
+
+@media screen and (max-width: 340px) {
+  .navigation div img {
+    width: 115px;
+  }
+  .contact_location p {
+    font-size: 15px;
+    line-height: 30px;
+  }
+
+  .contact_location button {
+    width: 110px;
+    height: 60px;
+  }
+
+  .contacted_images img:first-of-type {
+    height: 170px;
+  }
+
+  .contacted_images img:last-of-type {
+    left: 170px;
+    bottom: 243px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .eats {
+    width: 30%;
+  }
+  .cookimages img:last-of-type {
+    width: 270px;
+  }
+
+  .cookimages img:nth-of-type(2) {
+    width: 125px;
+    top: 60px;
+  }
+
+  .portfolio_header_text h1 {
+    font-size: 35px;
+  }
+
+  .reservation_div h1 {
+    font-size: 45px;
+    line-height: 55px;
+  }
+
+  .calories_lorem_text {
+    padding: 150px 85px 50px 6px;
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+
+@media screen and (max-width: 313px) {
+  .header_food_left p:first-of-type {
+    font-size: 35px;
+  }
+}
